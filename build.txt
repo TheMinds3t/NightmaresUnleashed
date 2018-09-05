@@ -1,0 +1,9 @@
+author = Psychotic
+version = 1.6.7
+displayName = Nightmares Unleashed
+homepage = http://forums.terraria.org/index.php?threads/nightmares-unleashed-throwing-weapons-bosses-minibosses-items-and-more-to-come.48306/
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.pdn, tech\*
+includePDB = true
